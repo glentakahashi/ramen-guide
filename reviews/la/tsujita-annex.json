@@ -1,0 +1,52 @@
+{
+  "name": "Tsujita Annex",
+  "website": "http://tsujita-la.com/annex.html",
+  "location": "1235 bullshit street, los angeles, ca 90024",
+  "hours": "11am-11:30pm, 7 days a week",
+  "wait": "45 min for 2, 1 hr 30 min for 4+",
+  "intro": "An intro",
+  "conclusion": "A conclusion",
+  "ramen": [
+    {
+      "name": "Ramen with Egg",
+      "picture": "pics/tsujita-annex-ramen.jpg",
+      "rating": {
+        "broth": 1,
+        "noodles": 3,
+        "egg": 1,
+        "meat": 4,
+        "toppings": 2
+      },
+      "style": {
+        "broth": "heavy tonkatsu",
+        "noodles": "thick noodles",
+        "egg": "medium-boiled",
+        "meat": "char siu",
+        "toppings": "bean sprouts, cabbage",
+        "extras": "Onikasu (red spice), fresh garlic"
+      },
+      "price": "$10-$15",
+      "review": "Best ramen ever! Yay. :)"
+    }, {
+      "name": "Tsukemen",
+      "picture": "pics/tsujita-annex-tsukemen.jpg",
+      "rating": {
+        "broth": 3,
+        "noodles": 4,
+        "egg": 2,
+        "meat": 1,
+        "toppings": 3
+      },
+      "style": {
+        "broth": "heavy tonkatsu",
+        "noodles": "thick noodles",
+        "egg": "medium-boiled",
+        "meat": "char siu",
+        "toppings": "bean sprouts, cabbage",
+        "extras": "Onikasu (red spice), fresh garlic"
+      },
+      "price": "$10-$15",
+      "review": "Too sweet for me:( \n asdf newline"
+    }
+  ]
+}

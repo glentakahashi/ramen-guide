@@ -1,0 +1,16 @@
+<div class="review">
+  <div class="overview">
+  </div>
+  {{#each ramen}}
+  <div class="ramen">
+    {{name}}
+    <img src="{{picture}}" alt="ramen">
+    <div class="ramen-rating"></div>
+    {{style}}
+    {{price}}
+    <div class="ramen-review">
+    {{review}}
+    </div>
+  </div>
+  {{/each}}
+</div>
